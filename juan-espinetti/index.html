@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        
+        <h1>hola mundo de Ark</h1>
+    </header>
+
+    <main class="api-info">
+
+        <div class="dinosaurios">
+            <div>
+                <h2>Coleccion de Dinosaurios</h2>
+                
+                <p>esta es una coleccion donde encontraremos gran cantidad de los dinosaurios que podemos observar al estar por el mundo de ARk, nuestro survival favorito de confianza</p>
+            </div>
+
+            <div class="endpoints">
+                    <ul>
+                        <li>
+                        Traer todos los dinos  <a   href="http://localhost:5500/dinosaurios" target="_blank"> /dinosaurios</a>
+                        </li>
+                        <li>
+                         Traer un dino en especifico   <a  href="http://localhost:5500/dinosaurios/Argentavis" target="_blank"> /dinosaurios/Argentavis</a>
+                        </li> 
+                        
+                        <li>
+                        Borra un dino especifico si mandamos esta url con un metodo "delete"     <a  href="http://localhost:5500/dinosaurios/Argentavis" target="_blank"> /dinosaurios/Argentavis</a>
+                        </li>
+                        
+                        <li>
+                           Con estas url podemos obtener dinos en base a su modo de alimentacion  "dinosaurios/nutricion/Herbivoro-Carnivoro-piscivoro" <a href="http://localhost:5500/dinosaurios/nutricion/Herbivoro">Herbivoros</a>, <a href="http://localhost:5500/dinosaurios/nutricion/Carnivoró">Carnivorós</a>, <a href="http://localhost:5500/dinosaurios/nutricion/Piscívoro">piscivoros</a> </a>
+                        </li>
+                        <li>Con esta url podemos obtener una cantidad especifica de dinos
+                            <a  href="http://localhost:5500/dinosaurios/cantidad/5" target="_blank">/dinosaurios/cantidad/5</a>
+                            </li>
+                        <li>  Con este link podemos ordenar alfabeticamente nuestros dinosaurios 
+                            <a  href="http://localhost:5500/dinosaurios/cantidad/15" target="_blank">/dinosaurios/orden/mayor</a>
+                            </li>
+                        
+
+                            <li>Creamos un dino mandandolo por medio de post especificando los datos ejemplo:
+                                <!--  creamos un dino  -->    <a  href="http://localhost:5500/dinosaurios" target="_blank">
+                                    /dinosaurios
+                                </a>
+<pre>
+    "nombre": "Argentavis",
+    "descripcion": "Dominando los cielos de toda la isla",
+    "doma": "si",
+    "nutricion": "Carnivoró",
+    "comportamiento": "Irritable",
+    "imagen": "./img/Argentavis.jpg",
+    "vida": "86"</pre>
+                            </li>
+
+                            <li>Con esta url enviandola con un metodo put puedes modificar un dinosaurio existente en la base de datos 
+                                <a  href="http://localhost:5500/dinosaurios/cantidad/15" target="_blank">/dinosaurios</a>
+                                </li>
+                    </ul>
+
+            </div>
+
+
+        </div>
+ 
+        <div class="mapas">
+            <div>
+                <h2>Coleccion de Mapas</h2>
+                
+                <p>esta es una coleccion donde encontraremos gran cantidad de los mapas que podemos observar al estar por el mundo de ARk, nuestro survival favorito de confianza</p>
+            </div>
+
+            <div class="endpoints">
+                <ul>
+                    <li>
+                    Traer todos los Mapas  <a  href="http://localhost:5500/mapas" target="_blank"> /mapas</a>
+                    </li>
+                    <li>
+                     Traer un Mapa en especifico   <a  href="http://localhost:5500/mapas/Scorched_Earth" target="_blank"> /mapas/Scorched_Earth</a>
+                    </li> 
+                    
+                    <li>
+                    Borra un Mapa especifico si mandamos esta url con un metodo "DELETE"     <a  href="http://localhost:5500/mapas/Scorched_Earth" target="_blank"> /mapas/Scorched_Earth</a>
+                    </li>
+                    
+                    <li>Con esta url podemos obtener una cantidad especifica de Mapas
+                        <a  href="http://localhost:5500/mapas/cantidad/5" target="_blank">/mapas/cantidad/5</a>
+                        </li>
+                    <li>  Con este link podemos ordenar alfabeticamente nuestros Mapas
+                        <a  href="http://localhost:5500/mapas/cantidad/15" target="_blank">/mapas/orden/mayor</a>
+                        </li>
+                    
+
+                        <li>Creamos un mapa mandandolo por medio de "POST" especificando los datos ejemplo:
+                            <a class="rainbow-link" href="http://localhost:5500/mapas" target="_blank">
+                                /mapas
+                            </a>
+<pre>
+    "nombre": "Scorched_Earth",
+    "descripcion": "Scorched Earth un mundo Desertico.",
+    "objetos especiales": "si",
+    "multijugador": "si"</pre>
+                        </li>
+
+                        <li>Con esta url enviandola con un metodo "PUT" puedes modificar un mapa existente en la base de datos 
+                            <a  href="http://localhost:5500/mapas/cantidad/15" target="_blank">/mapas</a>
+                            </li>
+                </ul>
+
+        </div>
+
+
+
+        </div>
+ 
+ 
+        <!-- 
+                // todos los objetos de una coleccion /dinosaurios
+                // todos los objetos de una coleccion /mapas
+
+
+
+
+
+
+         -->
+
+    </main>
+
+
+
+    <footer>
+
+        <h2>Alumno: Juan Diego Espinetti Galue</h2>
+        <h2>Profesora: Camila Belen Marcos Galban</h2>
+        <h2>Materia: Aplicaciones Hibridas</h2>
+        <h2>Comision: DWN4BP</h2>
+    </footer>
+
+
+
+    <script src="index.js"></script>
+</body>
+</html>

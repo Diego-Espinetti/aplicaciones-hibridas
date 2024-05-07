@@ -1,0 +1,63 @@
+[
+    {   
+        "nombre":"The Island",
+        "descripcion":"The island es un mapa en medio del mar donde podemos encontrar grandes montañas y bosques repletos de dinosaurios donde tienes que sobrevivir recolectando materiales y armandote con equipamiento para domesticar dinosaurios que te ayuden a cumplir tu mision, matar a la brodtmother",
+        "objetos especiales":"si",
+        "multijugador":"si"
+    },
+    {   
+        "nombre":"Scorched Earth",
+        "descripcion":"Scorched Earth ofrece una experiencia única dentro del mundo de ARK: Survival Evolved, desafiando a los jugadores a adaptarse y sobrevivir en un entorno desértico implacable lleno de peligros y oportunidades únicas.",
+        "objetos especiales":"si",
+        "multijugador":"si"
+    },
+    {   
+        "nombre":"Aberration",
+        "descripcion":"Aberration proporciona una experiencia de juego única y desafiante, con un entorno subterráneo único lleno de peligros, criaturas bioluminiscentes y recursos raros. Los jugadores deben adaptarse a las nuevas mecánicas de movilidad y estrategias de supervivencia para prosperar en este mundo alienígena y radiactivo.",
+        "objetos especiales":"si",
+        "multijugador":"si"
+    },
+    {   
+        "nombre":"Extinction",
+        "descripcion":"Extinction ofrece una experiencia de juego emocionante y desafiante en un entorno post-apocalíptico lleno de criaturas mecánicas y mutadas. Los jugadores deben adaptarse y sobrevivir en este mundo devastado mientras desentrañan los secretos de su pasado y luchan por un futuro mejor.",
+        "objetos especiales":"si",
+        "multijugador":"si"
+    },
+    {   
+        "nombre":"Genesis Part 1",
+        "descripcion":"ARK: Genesis Part 1 ofrece una experiencia de juego emocionante y diversa, con un mundo fragmentado lleno de criaturas exóticas, misiones intrigantes y desafíos únicos, mientras exploran la narrativa en evolución y descubren los secretos ocultos del universo de ARK.",
+        "objetos especiales":"si",
+        "multijugador":"si"
+    },
+    {   
+        "nombre":"The Center",
+        "descripcion":"The Center presenta un mundo insular masivo con una geografía variada, que incluye selvas tropicales exuberantes, paisajes montañosos, desiertos áridos y pantanos peligrosos. Esta diversidad de biomas proporciona a los jugadores una amplia gama de entornos para explorar y conquistar.",
+        "objetos especiales":"si",
+        "multijugador":"si"
+    },
+    {   
+        "nombre":"Valguero",
+        "descripcion":"Valguero presenta una geografía variada que incluye una mezcla de biomas, desde bosques densos y praderas abiertas hasta montañas escarpadas y cuevas subterráneas. Esta diversidad de paisajes proporciona a los jugadores una amplia gama de entornos para explorar y colonizar.",
+        "objetos especiales":"si",
+        "multijugador":"si"
+    },
+    {   
+        "nombre":"Lost Island",
+        "descripcion":"Lost Island presenta un entorno exuberante y diverso, con una combinación de biomas que incluyen densos bosques tropicales, playas soleadas, montañas imponentes y lagos tranquilos. La belleza natural de la isla ofrece a los jugadores una amplia gama de entornos para explorar y colonizar.",
+        "objetos especiales":"si",
+        "multijugador":"si"
+    },
+    {   
+        "nombre":"Raknarok",
+        "descripcion":"Ragnarok presenta un entorno vasto y diverso que incluye una variedad de biomas, desde montañas nevadas y volcanes activos hasta bosques frondosos y desiertos áridos. La diversidad de paisajes proporciona a los jugadores una amplia gama de entornos para explorar y colonizar.",
+        "objetos especiales":"si",
+        "multijugador":"si"
+    },
+    {   
+        "nombre":"Fjordur",
+        "descripcion":"Fjördur presenta un entorno escénico que se asemeja a los fiordos nórdicos, con acantilados rocosos, glaciares, cascadas imponentes y vastos bosques. Este paisaje pintoresco ofrece a los jugadores una experiencia visual impresionante mientras exploran y colonizan la isla.",
+        "objetos especiales":"si",
+        "multijugador":"si"
+    }
+
+    ]

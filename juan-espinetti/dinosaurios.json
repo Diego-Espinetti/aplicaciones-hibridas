@@ -1,0 +1,295 @@
+[
+    {   
+        "nombre":"Achatina",
+        "descripcion":"El Achatina tiene todas las características típicas de cualquier otro género de caracol, con la excepción de su tamaño notable. El caparazón está adornado con rayas de color brillante y las crestas afiladas que les proporcionan protección ante los depredadores de The Island.",
+        "doma":"si",
+        "nutricion":"Herbivoro",
+        "comportamiento":"Pasivo",
+        "imagen":"./img/descarga.jpg",
+        "vida":45
+    },
+    {   
+        "nombre":"Allosaurus",
+        "descripcion":"El Alosaurio es un depredador extremadamente agresivo y peligroso, aún más cuando está acompañado (siempre presentes). Acércate con precaución, no siempre podrás ver a sus aliados cercanos cuando te aproximes a un Alosaurio aparentemente solitario.",
+        "doma":"si",
+        "nutricion":"Carnívoro",
+        "comportamiento":"Agresivo",
+        "imagen":"./img/Allosaurus.jpg",
+        "vida":95
+    },    
+    {   
+        "nombre":"Ammonite",
+        "descripcion":"A diferencia de la mayoría de los animales del océano, la amonita es un animal pasivo que no lucha. Sin embargo, cuando es atacado, liberará una tinta verde en el agua, haciendo que todos los animales salvajes cercanos se vuelvan agresivos; Incluyendo animales terrestres cercanos.",
+        "doma":"no",
+        "nutricion":"Herbivoro",
+        "comportamiento":"Pasivo",
+        "imagen":"./img/Ammonite.jpg",
+        "vida":65
+    },    
+    {   
+        "nombre":"Anglerfish",
+        "descripcion":"Esta criatura, que normalmente se encuentra en las extensiones más profundas y oscuras del océano, se alimenta de peces más pequeños y al mismo tiempo es una excelente fuente de alimento para depredadores más grandes. Melanocetus tiene una serie de vainas de luz bioluminiscentes al final de los tallos de su cabeza.",
+        "doma":"si",
+        "nutricion":"Carnivoró",
+        "comportamiento":"Pasivo",
+        "imagen":"./img/Anglerfish.jpg",
+        "vida":42
+    },    
+    {   
+        "nombre":"Ankylosaurus",
+        "descripcion":" A pesar de no estar entre los herbívoros más grandes de la isla, Ankylosaurus es una de las criaturas más difíciles de derrotar. Su piel gruesa y blindada parece hacerlo más que rival para varios de los depredadores de tamaño mediano que de otro modo lo cazarían. Los carnívoros imprudentes tienen las mismas probabilidades de lastimarse con las púas del Ankylosaurus que de ser golpeados por su cola.",
+        "doma":"si",
+        "nutricion":"Herbivoro",
+        "comportamiento":"Pasivo",
+        "imagen":"./img/Ankylosaurus.jpg",
+        "vida":64
+    },    
+    {   
+        "nombre":"Araneomorphus",
+        "descripcion":"No sé por dónde empezar con Araneomorphus Amalgotantibus. Tiene muchos de los rasgos que inducen pesadillas en las arañas de muchas familias y géneros. Dispara telarañas como una araña bola, escupe veneno como una araña lince. Tiene una picadura venenosa como la de una miríada de arañas y puede ver en la oscuridad al sentir vibraciones.",
+        "doma":"si",
+        "nutricion":"Carnivoró",
+        "comportamiento":"Agresivo",
+        "imagen":"./img/Araneomorphus.jpg",
+        "vida":32
+    },    
+    {   
+        "nombre":"Archaeopteryx",
+        "descripcion":"Aproximadamente un metro de largo, el Archaeopteryx magnamilvum es un protopájaro principalmente arbóreo. Evita el suelo tanto como puede, prefiriendo permanecer en la seguridad de la línea de árboles, donde pocos depredadores pueden alcanzarlo.",
+        "doma":"si",
+        "nutricion":"Carnivoró",
+        "comportamiento":"Temeroso",
+        "imagen":"./img/Archaeopteryx.jpg",
+        "vida":75
+    },    
+    {   
+        "nombre":"Argentavis",
+        "descripcion":"Dominando los cielos de toda la isla, el Argentavis atrocollum tiene pocos rivales aéreos. Es un pequeño consuelo para las otras criaturas aviares de la isla, ya que Argentavis parece tener poco interés en cualquier cosa viva.",
+        "doma":"si",
+        "nutricion":"Carnivoró",
+        "comportamiento":"Irritable",
+        "imagen":"./img/Argentavis.jpg",
+        "vida":86
+    },    
+    {   
+        "nombre":"Arthropluera",
+        "descripcion":"La Arthropleura felsanguis es uno de los invertebrados más temibles de la isla - un ciempiés depredador, fuertemente blindado más largo que tres hombres altos. Prefiriendo la carroña sobre la presa viva, estos artrópodos enormes habitan las cuevas más profundas de la isla, devorando murciélagos y otros invertebrados.",
+        "doma":"si",
+        "nutricion":"Carnivoró",
+        "comportamiento":"Agresivo",
+        "imagen":"./img/Arthropluera.jpg",
+        "vida":24
+    },    
+    {   
+        "nombre":"Baryonyx",
+        "descripcion":"Vive cerca del agua, debido al hecho de que se alimenta de pescado principalmente. Es también un nadador excelente, que en ocasiones siente la necesidad de salir al agua para obtener su presa, ya que se dice que sus largas garras son para atrapar presas en tierra, no sólo en agua.",
+        "doma":"si",
+        "nutricion":"Piscívoro",
+        "comportamiento":"Agresivo",
+        "imagen":"./img/Baryonyx.jpg",
+        "vida":85
+    },    
+    {   
+        "nombre":"Basilosaurus",
+        "descripcion":"Una de las criaturas más extrañas de las aguas que rodean la isla es Basilosaurus solatiumfecit . Es un potente nadador que se ha adaptado tan bien a las aguas poco profundas que se recupera rápidamente de las lesiones cuando está cerca de la superficie del agua. ",
+        "doma":"si",
+        "nutricion":"Piscívoro",
+        "comportamiento":"Pasivo",
+        "imagen":"./img/Basilosaurus.jpg",
+        "vida":97
+    },    
+    {   
+        "nombre":"Beelzebufo",
+        "descripcion":"Beelzebufo es una rana enorme, más grande que un hombre y (una vez domesticada) lo suficientemente fuerte como para llevar uno en su espalda. Tiene espinas cortas que sobresalen de su espalda. Es un depredador eficaz ante las grandes especies de insectos de la isla, sedando a su presa antes de meterla en su amplia boca.",
+        "doma":"si",
+        "nutricion":"Carnivoró",
+        "comportamiento":"Pasivo",
+        "imagen":"./img/Beelzebufo.jpg",
+        "vida":75
+    },    
+    {   
+        "nombre":"Brontosaurio",
+        "descripcion":"El Brontosaurio no es agresivo, pero puede causar daño a los jugadores o dinosaurios al pisar sobre ellos si se les provoca. Otro ataque que hacen es un golpe de cola, que, para los personajes de nivel bajo a medio, puede ser una muerte de 1 o 2 golpes. El golpe de la cola hace más daño que el stomping, tiene un alcance largo, y le lanzará en la dirección que el golpe viajó. El Brontosaurio también tiene una gran cantidad de salud. Si quieres matar a uno, se recomiendan armas a distancia o dinos de caza de alto nivel.",
+        "doma":"si",
+        "nutricion":"Herbivoro",
+        "comportamiento":"Docil",
+        "imagen":"./img/Brontosaurio.jpg",
+        "vida":98
+    },    
+    {   
+        "nombre":"Equus",
+        "descripcion":"El Equus parece una mezcla de cebra y una gran raza moderna de caballo doméstico. Tiene una melena larga y salvaje, rayas como de cebra, una cola como de caballo y una barba desgreñada como la de una cabra. Según el expediente, parece ser comparable en tamaño a razas de caballos más grandes, como el caballo de Shire.",
+        "doma":"si",
+        "nutricion":"Herbivoro",
+        "comportamiento":"Leal",
+        "imagen":"./img/Equus.jpg",
+        "vida":74
+    },    
+    {   
+        "nombre":"Carbonemys",
+        "descripcion":"Carbonemys son tortugas grandes que a menudo son más altas que un humano. Lentos y generalmente plácidos, están protegidos por una de las conchas más duras de la isla, en la que pueden retroceder casi por completo. El caparazón está armado con escamas espinosas. La piel de los pies y la cola se ve reforzada por una caspa más firme. Solo el área del cuello inferior es relativamente sensible. Sus tiras de pino se pueden utilizar como herramienta de corte. Tienen ojos pequeños pero a menudo alerta y a menudo penetrantes, con frecuencia rojos.",
+        "doma":"si",
+        "nutricion":"Herbivoro",
+        "comportamiento":"Pasivo",
+        "imagen":"./img/Carbonemys.jpg",
+        "vida":64
+    },    
+    {   
+        "nombre":"Carnotaurus",
+        "descripcion":"El Carnotauro es un terópodo de tamaño mediano algo parecido a un Tiranosaurio más pequeño en términos de forma. Sin embargo, tiene varias características distintas; las más notables son una cabeza roma con dos cuernos y brazos hacia adelante tan rechonchos que hacen que los de un Tiranosaurio parezcan bien desarrollados en comparación.",
+        "doma":"si",
+        "nutricion":"Carnivoró",
+        "comportamiento":"Agresivo",
+        "imagen":"./img/Carnotaurus.jpg",
+        "vida":74
+    },    
+    {   
+        "nombre":"Castoroides",
+        "descripcion":"El Castoroides es una especie de castor gigante que se encuentra comúnmente en los ríos y estanques del interior de la isla. También aparece en Hidden Lake. Tiene pieles impermeables y una cola plana para nadar. Con sus poderosas mandíbulas e incisivos afilados que pueden roer a través de muchos de los árboles que se encuentran en toda la isla, utilizando la madera resultante y otras materias primas para construir sus presas.",
+        "doma":"si",
+        "nutricion":"Herbivoro",
+        "comportamiento":"Amigable",
+        "imagen":"./img/Castoroides.webp",
+        "vida":54
+    },    
+    {   
+        "nombre":"Chalicotherium",
+        "descripcion":"Quizás el mamífero más extraño de la isla, el Chalicotherium , se describe mejor como un híbrido entre un caballo, un gorila, un oso y una cebra, pero también se parece a los perezosos terrestres. Como un gorila, camina sobre sus nudillos, pero mientras que los simios tienen manos, el Chalicotherium empuña perversas garras. Estas garras se utilizan para tirar de ramas de hojas hacia su boca, pero son mortales en combate. La forma del cráneo, la cola y los patrones se inclinan más hacia los de una especie equina, mientras que el cuerpo tiene una forma casi idéntica a la de los perezosos terrestres gigantes como Megatherium.",
+        "doma":"si",
+        "nutricion":"Herbivoro",
+        "comportamiento":"Territorial",
+        "imagen":"./img/Chalicotherium.jpg",
+        "vida":73
+    },    
+    {   
+        "nombre":"Cnidaria",
+        "descripcion":"Cnidaria Omnimorph es una medusa relativamente grande en comparación con un humano, con largos tentáculos llenos de veneno para sedar tanto a sus presas como a sus depredadores. Por lo general, son fáciles de detectar durante la noche y en aguas más profundas, ya que brillan con un color cian neón brillante, pero se mezclan durante el día cerca de la superficie, ya que son similares en color al agua.",
+        "doma":"no",
+        "nutricion":"Herbivoro",
+        "comportamiento":"Agresivo",
+        "imagen":"./img/Cnidaria.jpg",
+        "vida":74
+    },    
+    {   
+        "nombre":"Compsognathus",
+        "descripcion":"Curioso por los humanos, cualquier Compy se sentirá atraído por uno simplemente con verlo. Por sí solo, un Compsognathus no es una amenaza, no atacará y simplemente desea observar a los humanos; sin embargo, cuando se aparean potenciados y en manadas más grandes, estos pequeños terrores pronto se vuelven agresivos y atacarán a cualquier cosa, especialmente a los humanos",
+        "doma":"si",
+        "nutricion":"Carnivoró",
+        "comportamiento":"Curioso",
+        "imagen":"./img/Compsognathus.jpg",
+        "vida":72
+    },    
+    {   
+        "nombre":"Daeodon",
+        "descripcion":"Daeodon es un mamífero grande con hombros encorvados y pezuñas hendidas. Tiene una cabeza enorme y mandíbulas largas con temibles dientes frontales en forma de colmillos para desgarrar tanto la carne como la materia vegetal y filas de molares en la parte posterior de la boca para triturar. Con su enorme tamaño y sus dientes de pesadilla, es fácil olvidar que este animal es parte de la familia de los cerdos.",
+        "doma":"si",
+        "nutricion":"Carnivoró",
+        "comportamiento":"Territorial",
+        "imagen":"./img/Daeodon.jpg",
+        "vida":74
+    },    
+    {   
+        "nombre":"Death Worm",
+        "descripcion":"El océano de arena que rodea la Tierra Quemada está patrullado por el apropiadamente llamado Deathworm, un invertebrado depredador excavador de proporciones titánicas. Estas criaturas ciegas y de pesadilla, que se asemejan a un gusano gigantesco (o tal vez a una sanguijuela ) con piezas bucales cortantes y ruidosas patas vestigiales, tienen un oído excelente y atacarán casi cualquier cosa que detecten moviéndose a través de las dunas, surgiendo desde abajo para capturar a sus presas.",
+        "doma":"no",
+        "nutricion":"Carnivoró",
+        "comportamiento":"Extremadamente Territorial",
+        "imagen":"./img/Death Worm.jpg",
+        "vida":97
+    },    
+    {   
+        "nombre":"Dilophosaurus",
+        "descripcion":"Dilophosaurus es un pequeño depredador oportunista que se distingue mejor por las crestas gemelas en la cabeza y el volante membranoso que rodea el cuello. Se encuentran solos o en pequeños grupos por toda la isla y se alimentan de cualquier cosa más pequeña que ellos. Sin embargo, estos dinosaurios también son carroñeros frecuentes. Si se ve amenazado, un Dilophosaurus levanta su volante, silba y escupe un veneno verdoso que aturde y ciega a su objetivo.",
+        "doma":"si",
+        "nutricion":"Carnivoró",
+        "comportamiento":"Territorial",
+        "imagen":"./img/Dilophosaurus.jpg",
+        "vida":56
+    },    
+    {   
+        "nombre":"Dimetrodon",
+        "descripcion":"Dimetrodon Calorector es un depredador mucho más tranquilo que la mayoría. Debido a que vive de presas más pequeña que los humanos, ignora cualquier cosa mucho más grande que un celacanto. El Dimetrodon es uno de los pocos carnívoros en la isla que podría ser clasificado como razonablemente amigable en la naturaleza.",
+        "doma":"si",
+        "nutricion":"Carnivoró",
+        "comportamiento":"Reactivo",
+        "imagen":"./img/Dimetrodon.jpg",
+        "vida":48
+    },    
+    {   
+        "nombre":"Dimorphodon",
+        "descripcion":"El Dimorphodon aparece como un pequeño reptil volador con una cabeza notablemente redonda. Se parecen a los murciélagos y, por eso, a menudo se los puede confundir con el Onyc, que habita en cavernas. Sin embargo, existen algunas diferencias notables en la apariencia, siendo la principal la amplia combinación de colores del Dimorphodon.",
+        "doma":"si",
+        "nutricion":"Carnivoró",
+        "comportamiento":"Reactivo",
+        "imagen":"./img/Dimorphodon.jpg",
+        "vida":77
+    },    
+    {   
+        "nombre":"Diplocaulus",
+        "descripcion":"El Diplocaulus se asemeja a un tritón grande con un cuerpo bajo y flácido, piel viscosa y una cola en forma de paleta para moverse a través del agua estancada de los pantanos. Sin embargo, la cabeza de la criatura hace imposible confundirla con cualquier otra criatura",
+        "doma":"si",
+        "nutricion":"Piscívoro",
+        "comportamiento":"Asustadizo",
+        "imagen":"./img/Diplocaulus.jpg",
+        "vida":62
+    },    
+    {   
+        "nombre":"Diplodocus",
+        "descripcion":"A primera vista, el Diplodocus se asemeja a su pariente cercano el Brontosaurio, pero una observación mas detallada revela diferencias. El Diplodocus es muy largo y tiene una cola en forma de látigo y un cuerpo bajo, en contraste con la cabeza elevada y cuerpo mas grande del Brontosaurio",
+        "doma":"si",
+        "nutricion":"Herbivoro",
+        "comportamiento":"Ingenuo",
+        "imagen":"./img/Diplodocus.jpg",
+        "vida":84
+    },    
+    {   
+        "nombre":"Direbear",
+        "descripcion":"El Dire Bear nunca es un espectáculo bienvenido para los supervivientes en las regiones heladas de ARK. Con apariencia de oso grizzly, el oso terrible se distingue por su hocico más corto, lo que le valió el apodo de 'oso de cara corta'. Como otros osos, son capaces de pararse sobre sus patas traseras, pero sólo para intimidar a quienes entran en su territorio. La bestia también es sorprendentemente rápida por su corpulenta constitución.",
+        "doma":"si",
+        "nutricion":"Carnivoró",
+        "comportamiento":"Territorial",
+        "imagen":"./img/Direbear.jpg",
+        "vida":98
+    },    
+    {   
+        "nombre":"Direwolf",
+        "descripcion":"El lobo huargo es un antepasado del lobo moderno y del coyote. Ha evolucionado ligeramente para el peligroso entorno de las ARK, por lo que es una especie muy grande, de aproximadamente 2 metros de altura hasta los hombros y muy musculosa. El lobo huargo comúnmente varía en color desde el blanco al negro, con una mezcla de grises y marrones, cualquier color que puedan tener los lobos modernos. En raras ocasiones se pueden encontrar en colores exóticos como el azul brillante o el verde.",
+        "doma":"si",
+        "nutricion":"Carnivoró",
+        "comportamiento":"Agresivo",
+        "imagen":"./img/Direwolf.jpg",
+        "vida":78
+    },    
+    {   
+        "nombre":"Dodo",
+        "descripcion":"Es parecido a una paloma, además es fácilmente identificable por su gran pico y su cuerpo robusto y redondo. Los Dodos pueden variar en colores.",
+        "doma":"si",
+        "nutricion":"Herbivoro",
+        "comportamiento":"Inadvertido",
+        "imagen":"./img/Dodo.jpg",
+        "vida":15
+    },    
+    {   
+        "nombre":"Doedicurus",
+        "descripcion":"El Doedicurus es una criatura prehistórica que se asemeja a un armadillo gigante con una gran caparazón blindado. Este dinosaurio es conocido por su capacidad única de recolección de recursos, especialmente piedra. Su cuerpo está cubierto por una gruesa armadura, lo que lo hace resistente a los ataques y dificulta su domesticación.",
+        "doma":"si",
+        "nutricion":"Herbivoro",
+        "comportamiento":"Docil",
+        "imagen":"./img/Doedicurus.jpg",
+        "vida":98
+    },    
+    {   
+        "nombre":"Dungbeetle",
+        "descripcion":"Scarabidae gigas , un escarabajo pelotero de enorme tamaño, es un componente vital de la extraña ecología de la isla. Se encuentran con mayor frecuencia en cuevas profundas, alimentándose de cantidades masivas de guano de murciélago y, a su vez, siendo cazados por otros invertebrados gigantes que merodean por los oscuros pasillos y paredes. ",
+        "doma":"si",
+        "nutricion":"coprófago",
+        "comportamiento":"Neutral",
+        "imagen":"./img/Dungbeetle.jpg",
+        "vida":18
+    } 
+ 
+]
+
+
+
+

@@ -1,0 +1,110 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    background-color: #4b4b4b;
+    color: rgb(201, 201, 201);
+    font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+header{   
+    padding: 3rem;
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    background-color: white;
+}
+h1{
+    background-color: white;
+    color: #1a1818;
+}
+
+li{
+    list-style: none;
+    margin: 40px;
+}
+
+pre{
+    border: 1px solid gray;
+    margin: 40px;
+    padding: 30px;
+
+}
+.api-info{
+    background-color: #4b4b4b;
+
+    display: grid;
+    grid-template-columns: 50% 50%;
+    justify-content: space-around;
+}
+
+h2{
+    text-align: center;
+    background-color:#4b4b4b;
+}
+
+.dinosaurios{
+    margin: 2%;
+    background-color: #1a1818;
+    padding: 2%;
+    border: 1px solid red;
+    box-shadow: 1px 1px 15px  rgb(209, 129, 53);
+    border-radius: 10px;
+
+
+}
+div>p,a,li,ul,pre,h2{
+    background-color: #1a1818;
+}
+
+footer>h2{
+    margin-top: 100px;
+    background:  transparent;
+    text-align: center;
+    height: max-content;
+}
+
+
+footer{
+    height:  300px;
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid green;
+    box-shadow: 1px 1px 15px  rgb(7, 255, 49);
+    margin: 1%;
+    border-radius: 10px;
+
+}
+
+.mapas{
+    margin: 2%;
+    background-color: #1a1818;
+    padding: 2%;
+    border: 1px solid blue;
+    box-shadow: 1px 1px 15px  rgb(17, 179, 207);
+    border-radius: 10px;
+
+}
+
+
+
+@keyframes rainbow {
+    0% { background-position: 0% 50%; }
+    100% { background-position: 100% 50%; }
+}
+
+.rainbow-link {
+    display: inline-block;
+    text-decoration: none;
+    color:  rgb(201, 201, 201); /* Color de texto predeterminado */
+}
+
+/* Cuando el mouse está encima del enlace, muestra el gradiente de colores */
+.rainbow-link:hover {
+    background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    background-size: 200% auto;
+    background-clip: text;
+    color: transparent; /* Oculta el texto original */
+    transition: color 0.3s; /* Agrega una transición suave para el cambio de color */
+}
